@@ -10,7 +10,9 @@
   * [文件服务独立部署](./functions/filesvrdeploy)
   * [客户端组织架构同步](./functions/客户端组织架构同步)
   * [消息多终端漫游](./functions/消息多终端漫游)
-  * [文件传输](./functions/文件传输)
+  * [有度文件传输](./functions/文件传输)
+  * [服务端数据存储](./functions/服务端数据存储)
+  * [有度消息收发](./functions/消息收发)
 * [常见问题处理](./questions/_questions)
 * [技术服务标准](./_support)
 
