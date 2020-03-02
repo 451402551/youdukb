@@ -16,7 +16,7 @@
   * [第三方认证](./functions/第三方认证)
   * [远程控制](./functions/远程控制)
   * [回执消息](./functions/回执消息)
-  * [消息通知](./function/消息通知)
+  * [消息通知](./functions/消息通知)
   * [客户端升级](./functions/客户端升级)
   * [企业集群](./functions/企业集群)
 * [常见问题处理](./questions/_questions)
